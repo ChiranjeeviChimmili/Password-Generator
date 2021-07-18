@@ -1,4 +1,5 @@
 # Password-Generator
 
-generates password and assesses strength
+generates password and assesses strength  
+
 *for later use
