@@ -1,4 +1,4 @@
 # Password-Generator
-hw assignment
+hw assignment  
 generates password and assesses strength  
 
